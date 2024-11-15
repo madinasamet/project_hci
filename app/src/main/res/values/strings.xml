@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="logo">logo\n\n</string>
+    <string name="welcome">Добро пожаловать!\n</string>
+    <string name="txtregis">Регистрация\n</string>
+    <string name="email">Email\n</string>
+    <string name="phonenumber">Номер телефона</string>
+    <string name="password">Пароль</string>
+    <string name="btnregis">Зарегистрироваться</string>
+    <string name="todo">TODO</string>
+    <string name="welcomeback">С возвращением!</string>
+    <string name="txtsighup">Вход\n</string>
+    <string name="btnsignup">Вход</string>
+    <string name="linktosignup">Уже есть аккаунт? Вход</string>
+    <string name="linktoregis">Зарегистрироваться</string>
+</resources>
